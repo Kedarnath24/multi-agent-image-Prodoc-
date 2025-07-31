@@ -1,0 +1,26 @@
+# Core dependencies for Multi-Agent Image Analysis System
+streamlit>=1.28.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Image processing and analysis
+numpy>=1.24.0
+opencv-python>=4.8.0
+
+# Utilities and helpers
+python-dotenv>=1.0.0
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# Optional: For advanced features
+# accelerate>=0.20.0  # For model optimization
+# sentencepiece>=0.1.99  # For tokenization
+# protobuf>=3.20.0  # For model serialization
+
+# Development and testing (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0 
